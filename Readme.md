@@ -7,7 +7,7 @@ By Ga-yana
 
 ## A static and stylish webpage.
 
-### Click [here]() to see it live
+### Click [here](https://whatin2025.netlify.app/) to see it live
 
 ![Homepage](./assets/Screenshot%202022-08-05%20at%2011.53.10%20PM.png)
 
